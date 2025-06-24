@@ -5,10 +5,7 @@
  */
 package praktikum17042025;
 
-/**
- *
- * @author nofri
- */
+
 public class Kendaraan {
     private String nama;
     private int tahunProduksi;
